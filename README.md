@@ -18,7 +18,8 @@ My primary expertise lies in turning complex, unstructured data into actionable 
 | Category | Key Technologies |
 | :--- | :--- |
 | **Languages** | 🐍 **Python** (Primary) |
-| **Machine Learning** | **scikit-learn**, **Pandas**, **NumPy**, OCR Libraries (Tesseract/PaddleOCR/EasyOCR/Azure Form Recognizer/ AWS Textract/Custom Models) |
+| **Machine Learning** | **scikit-learn**, **Pandas**, **NumPy** |
+| **OCR** | Tesseract, PaddleOCR, EasyOCR, Azure Form Recognizer, AWS Textract, Custom Models |
 | **Data & ETL** | SQL, Matplotlib, Seaborn, Data Pipelines, REST APIs |
 | **Version Control** | Git, GitHub |
 
@@ -38,7 +39,7 @@ I'm always exploring new ways to improve model performance and deployment. Right
 
 | Icon | How to Reach Me |
 | :--- | :--- |
-| 💼 | **[(https://www.linkedin.com/in/abhishek-kumar-598019203/)]**|
+| 💼 | https://www.linkedin.com/in/abhishek-kumar-598019203/ |
 | 📧 | abhishekkumar39054@gmail.com |
 
 ***
